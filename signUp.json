@@ -1,0 +1,77 @@
+{
+  "avatar": {
+    "author": "",
+    "content_type": "predefined_image",
+    "created": 1455893097,
+    "data": {
+      "height": 1000,
+      "width": 1000
+    },
+    "hub_id": "",
+    "id": "58edba6d-892a-4078-b140-3960fe6abb7d",
+    "is_deleted": false,
+    "is_public": true,
+    "mime_type": "image/jpeg",
+    "modified": 0,
+    "public_timestamp": 1455893097,
+    "rank": 1,
+    "sources": [
+      {
+        "file_name": "",
+        "key": "items/58edba6d/892a/4078/b140/3960fe6abb7d/origin.jpg",
+        "title": "S3",
+        "type": "s3",
+        "url": "https://d8996vq0eow3r.cloudfront.net/items/58edba6d/892a/4078/b140/3960fe6abb7d/origin.jpg"
+      }
+    ],
+    "tags": [],
+    "title": "29.jpg",
+    "type": "image"
+  },
+  "bio": "",
+  "birthday": "1981-03-24",
+  "celebrity_hub_id": null,
+  "city": "Kiev",
+  "coins": 7230,
+  "community_posts_count": 35,
+  "country": "Ukraine",
+  "device_is_banned": false,
+  "dm_pushes_enabled": true,
+  "email": "test1@test.ua",
+  "favorites": null,
+  "first_name": "te",
+  "follow_me": 223,
+  "following": false,
+  "i_follow": 45,
+  "id": "1686dd1f-dcaa-4339-a741-d53c0c14121b",
+  "is_banned": false,
+  "is_deleted": false,
+  "is_fahlo_user": false,
+  "is_follow": false,
+  "is_followed": false,
+  "is_verified": true,
+  "labels": "Hello,World",
+  "last_name": "st",
+  "notifications_count": 0,
+  "optional_title": "entourage",
+  "permissions": [],
+  "private_address": "",
+  "private_address_location": null,
+  "public_address": "",
+  "public_address_location": {
+    "lat": 0,
+    "lon": 0
+  },
+  "pushes_enabled": false,
+  "registration_email_confirmed": false,
+  "role": "manager",
+  "show_private_content": true,
+  "social": null,
+  "stage_title": "Fan",
+  "state": "",
+  "street": "",
+  "unread_messages_count": 0,
+  "username": "test11",
+  "zip": ""
+}
+
