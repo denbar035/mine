@@ -136,6 +136,7 @@ public class server {
         System.out.println(i);
         //Second version
         given().when().get("http://localhost:3000/posts").then().time(lessThan(800L));
+        
     }
 
     /**
